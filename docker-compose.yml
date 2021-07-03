@@ -6,3 +6,5 @@ services:
     image: "curriculum_vitae_image" 
     container_name: "curriculum_vitae" 
     tty: true
+    volumes:
+      - "./:/workdir" # あとでlongに修正する
