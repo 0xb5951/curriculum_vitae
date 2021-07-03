@@ -1,0 +1,8 @@
+version: "3"
+
+services:
+  clasp:
+    build: .
+    image: "curriculum_vitae_image" 
+    container_name: "curriculum_vitae" 
+    tty: true
