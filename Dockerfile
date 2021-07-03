@@ -9,5 +9,6 @@ COPY ./ /workdir/
 ENV PATH /workdir/node_modules/.bin:$PATH
 WORKDIR /workdir/
 
+RUN npm install
 
 CMD ["/bin/bash"]
