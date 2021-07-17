@@ -105,6 +105,25 @@ https://www.lancers.co.jp/news/info/19672/
 　また、動画に関してはElemental MediaConvertを使用し、エンコードを行い、S3で保存させていました。アップロードに合わせて自動で変換させるためにLambdaを使用したパイプラインを構築しました。
 さらに動画の安定提供のために、CDNを配置する工夫も行いました。。
 
+### 投稿記事・関連記事
+
+|Date|link|
+|---|---|
+|2021/06/06|[うつ病で何もできなくなった僕が、毎日何かに取り組めるようになった習慣化の話](https://note.com/0xb5951/n/ndfafe0ff9264)|
+|2020/07/01|[人類は改めて鬱病のヤバさについて知ったほうがいいと思う。](https://note.com/0xb5951/n/n3fbc0f4471fa)|
+|2020/06/25|[社内で感謝を送りあうSlackの絵文字リアクション「nas」のコード公開](https://www.lancers.co.jp/news/info/19672/)|
+|2020/04/14|[汎用的に使えるPythonプロジェクトのテンプレートを作成しました](https://qiita.com/odrum428/items/19e883c83af4f37c6666)|
+|2019/12/22|[実際に本番導入してみて分かった！ツラさから考える最強のMLデータパイプライン](https://qiita.com/odrum428/items/1788c4245fc2de4d58a8)|
+|2019/12/18|[AIチームの立ち上げとこれから](https://engineer.blog.lancers.jp/2019/12/ai_team_launch/)|
+|2019/12/12|[株式会社NOIABのCTOをやめました。](https://note.com/0xb5951/n/n86d273812a6b)|
+|2019/11/21|[ランサーズ開発合宿2019 Amazon Sumerianで3D受付システムを作る](https://engineer.blog.lancers.jp/2019/11/devcamp2019_3d_reception/)|
+|2019/04/17|[【19卒】進学希望の高専生がベンチャーで働くことを決めるまでの話](https://www.wantedly.com/companies/lancers/post_articles/165018)|
+|2019/03/06|[感謝を贈り合うツール「nas!」を開発したインターン生の今後のビジョンとは](https://www.wantedly.com/companies/lancers/post_articles/154629)|
+|2019/03/04|[LSTM-RNNを使って芥川龍之介っぽい文章を自動生成させてみた](https://qiita.com/odrum428/items/8864a5476027b910b9b5)|
+|2019/02/07|[Slackで感謝を送り合うツールを３日で実装、導入した話](https://qiita.com/odrum428/items/183934ee0f7e93b2f3ea)|
+|2018/11/19|[【Lambda】めんどくさいGitHubのIssue作成はBotにやらせよう！](https://qiita.com/odrum428/items/1d402cc8ccc9b1ecabec)|
+|2018/11/14|[SlackでEtherを送りあえるサービスをLambdaで実装した話](hhttps://engineer.blog.lancers.jp/2018/11/dev_ether_tipinng_service_on_lambda/)|
+
 ### 登壇実績
 
 |Date|Event|link|
