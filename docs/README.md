@@ -6,8 +6,8 @@
 |---|---|
 |氏名| 水島 啓太（Keita Mizushima）|
 |生年月日|1998/02/02|
+|最終学歴|津山工業高等専門学校 電子制御工学科 |
 |Twitter|[@0xb5951](https://twitter.com/0xb5951)|
-|speakerdeck|[@odrum428](https://speakerdeck.com/odrum428)|
 |speakerdeck|[@odrum428](https://speakerdeck.com/odrum428)|
 
 
@@ -105,9 +105,15 @@ https://www.lancers.co.jp/news/info/19672/
 　また、動画に関してはElemental MediaConvertを使用し、エンコードを行い、S3で保存させていました。アップロードに合わせて自動で変換させるためにLambdaを使用したパイプラインを構築しました。
 さらに動画の安定提供のために、CDNを配置する工夫も行いました。。
 
-### 技術記事投稿
+### 登壇実績
 
-### 勉強会での登壇
+|Date|Event|link|
+|---|---|---|
+|2020/02/04|[M5Stackユーザーミーティング vol.7](https://m5stack.connpass.com/event/161858/)|[M5StickC+Vで脳波で撮影するカメラを作った話](https://speakerdeck.com/odrum428/m5stickc-plus-vdenoy-bo-decuo-ying-surukamerawozuo-tutahua)|
+|2019/11/22|[第二回 Lancers Tech Night](https://engineer.blog.lancers.jp/2019/12/lancers-tech-night/)|[僕が作りたい世界と現状の問題点](https://speakerdeck.com/odrum428/pu-gazuo-ritaishi-jie-toxian-zhuang-falsewen-ti-dian)|
+|2019/11/05|[Connehito Marché vol.6 〜機械学習・データ分析市〜](https://connehito.connpass.com/event/149552/)|[Sage Makerで構築する価格推定シムテム](https://speakerdeck.com/odrum428/sage-makerdegou-zhu-surujia-ge-tui-ding-simutemu)|
+|2019/5/20|Yahoo! 機械学習交流会|[ランサーズと機械学習のこれから](https://speakerdeck.com/odrum428/ransazutoji-jie-xue-xi-falsekorekara)|
+|2019/03/20|[Connehito Marché vol.5 〜PHP市〜](https://connehito.connpass.com/event/122217/)|[WordPressを PHP5.6から7.2にアップデートした話](https://speakerdeck.com/odrum428/wordpresswo-php5-dot-6kara7-dot-2niatupudetositahua)|
 
 ## こんなチームで働きたい
 
