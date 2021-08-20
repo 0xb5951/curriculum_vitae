@@ -204,7 +204,7 @@
 | 2019/03/04 | [LSTM-RNNを使って芥川龍之介っぽい文章を自動生成させてみた](https://qiita.com/odrum428/items/8864a5476027b910b9b5)                         |
 | 2019/02/07 | [Slackで感謝を送り合うツールを３日で実装、導入した話](https://qiita.com/odrum428/items/183934ee0f7e93b2f3ea)                              |
 | 2018/11/19 | [【Lambda】めんどくさいGitHubのIssue作成はBotにやらせよう！](https://qiita.com/odrum428/items/1d402cc8ccc9b1ecabec)                       |
-| 2018/11/14 | [SlackでEtherを送りあえるサービスをLambdaで実装した話](hhttps://engineer.blog.lancers.jp/2018/11/dev_ether_tipinng_service_on_lambda/)    |
+| 2018/11/14 | [SlackでEtherを送りあえるサービスをLambdaで実装した話](https://engineer.blog.lancers.jp/2018/11/dev_ether_tipinng_service_on_lambda/)    |
 
 ---
 
