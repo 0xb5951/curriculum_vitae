@@ -119,3 +119,7 @@ dist
 .pnp.*
 
 # End of https://www.toptal.com/developers/gitignore/api/node
+
+# use setting
+.bash_history
+.yarnrc
