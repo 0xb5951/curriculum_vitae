@@ -7,4 +7,4 @@ services:
     container_name: "curriculum_vitae" 
     tty: true
     volumes:
-      - "./:/workdir" # あとでlongに修正する
+      - "../src:/home/node" # あとでlongに修正する
