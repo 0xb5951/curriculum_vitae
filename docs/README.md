@@ -16,7 +16,8 @@
 
 ### 技術スタック
 
-<details><summary>言語</summary><div>
+<details>
+    <summary>言語</summary><div>
 
 | 言語名     | 経験年数 | できること・レベル                             |
 | ---------- | -------- | ---------------------------------------------- |
@@ -146,7 +147,6 @@
 
     [ランサーズと機械学習のこれから](https://speakerdeck.com/odrum428/ransazutoji-jie-xue-xi-falsekorekara)
 
-
 #### CREインターン(2018年8月 ~ 2019年3月)
 
 2018年の夏ごろインターンとしてジョインし、約半年ほどCRE業務を行っていました。
@@ -167,8 +167,6 @@
 
     [WordPressを PHP5.6から7.2にアップデートした話](https://speakerdeck.com/odrum428/wordpresswo-php5-dot-6kara7-dot-2niatupudetositahua)
 
----
-
 ## NOIAB株式会社 (2018年8月 ~ 2019年10月)
 
 立ち上げ期の創業者と出会い、CTOとしてジョインしました。
@@ -185,9 +183,7 @@
 - サービスのアジリティを上げるために採用活動を行いました
 - その後、採用できたエンジニアやデザイナーなどと協力しながらReact Nativeを用いて、モバイルアプリをリリースしました
 
----
-
-### 投稿記事・関連記事
+## 投稿記事・関連記事
 
 | Date       | link                                                                                                                                      |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -204,11 +200,9 @@
 | 2019/03/04 | [LSTM-RNNを使って芥川龍之介っぽい文章を自動生成させてみた](https://qiita.com/odrum428/items/8864a5476027b910b9b5)                         |
 | 2019/02/07 | [Slackで感謝を送り合うツールを３日で実装、導入した話](https://qiita.com/odrum428/items/183934ee0f7e93b2f3ea)                              |
 | 2018/11/19 | [【Lambda】めんどくさいGitHubのIssue作成はBotにやらせよう！](https://qiita.com/odrum428/items/1d402cc8ccc9b1ecabec)                       |
-| 2018/11/14 | [SlackでEtherを送りあえるサービスをLambdaで実装した話](https://engineer.blog.lancers.jp/2018/11/dev_ether_tipinng_service_on_lambda/)    |
+| 2018/11/14 | [SlackでEtherを送りあえるサービスをLambdaで実装した話](https://engineer.blog.lancers.jp/2018/11/dev_ether_tipinng_service_on_lambda/)     |
 
----
-
-### 登壇実績
+## 登壇実績
 
 | Date       | Event                                                                                             | link                                                                                                                                      |
 | ---------- | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -217,8 +211,6 @@
 | 2019/11/05 | [Connehito Marché vol.6 〜機械学習・データ分析市〜](https://connehito.connpass.com/event/149552/) | [Sage Makerで構築する価格推定システム](https://speakerdeck.com/odrum428/sage-makerdegou-zhu-surujia-ge-tui-ding-simutemu)                 |
 | 2019/5/20  | Yahoo! 機械学習交流会                                                                             | [ランサーズと機械学習のこれから](https://speakerdeck.com/odrum428/ransazutoji-jie-xue-xi-falsekorekara)                                   |
 | 2019/03/20 | [Connehito Marché vol.5 〜PHP市〜](https://connehito.connpass.com/event/122217/)                  | [WordPressを PHP5.6から7.2にアップデートした話](https://speakerdeck.com/odrum428/wordpresswo-php5-dot-6kara7-dot-2niatupudetositahua)     |
-
----
 
 ## 希望条件
 
