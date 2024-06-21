@@ -12,12 +12,15 @@
 | Speaker Deck                     | [odrum428](https://speakerdeck.com/odrum428) |
 | Qiita                            | [odrum428](https://qiita.com/odrum428)       |
 | note                             | [0xb5951](https://note.com/0xb5951/)         |
-| 問い合わせはこちらでお願いします | oxkeita@gmail.com                             |
+| 問い合わせはこちらでお願いします | [oxkeita@gmail.com](mailto:oxkeita@gmail.com)                            |
 
-## 技術スタック
+## 比較的得意なこと
 
-<details>
-    <summary>言語</summary><div>
+- (課題・組織・認識)の構造化
+- 物事を遂行しやすい形にする仕組みづくり
+- 関連メンバーのサポート・エンパワーメント
+- モチベーション・文化土台の醸成
+- 人に何かを頼むこと
 
 | 言語名     | 経験年数 | できること・レベル                             |
 | ---------- | -------- | ---------------------------------------------- |
