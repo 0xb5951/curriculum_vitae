@@ -123,3 +123,6 @@ dist
 # use setting
 .bash_history
 .yarnrc
+
+# macOS
+.DS_Store
